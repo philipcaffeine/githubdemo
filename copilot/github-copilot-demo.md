@@ -1,7 +1,6 @@
 
 # Create hello world with GitHub Copilot 
-# Leverage existing python code
-# Workspace integration 
+
 
 ## Create hello world with GitHub Copilot 
 
@@ -13,7 +12,7 @@
 
 4. Using right click navigator with Copilot command "Generate Tests"
 
-
+# Leverage existing python code
 
 ## Git Clone sample python code 
 
@@ -23,7 +22,19 @@ git clone https://github.com/Azure-Samples/azureai-samples
 
 Go to file : \azureai-samples\scenarios\Agents\samples\code-interpreter\python-code-interpreter.py
 
+/doc
+/explain
+/review and comment
+
+# GitHub Copilot for Azure 
+
+## GitHub Copilot for Azure 
+
+https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/get-started
 
 
+### Get started with GitHub Copilot for Azure Preview to streamline your development workflow and enhance your productivity on the Azure platform. This guide walks you through the prerequisites and installation of the GitHub Copilot for Azure extension in Visual Studio Code, so you can write your first prompt.
 
+
+# Workspace integration 
 
