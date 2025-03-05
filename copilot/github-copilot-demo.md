@@ -15,9 +15,6 @@
 
 
 
-
-
-
 ## Git Clone sample python code 
 
 ```hcl
