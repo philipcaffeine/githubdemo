@@ -21,10 +21,9 @@
 git clone https://github.com/Azure-Samples/azureai-samples
 ```
 
-Go to file : \azureai-samples\scenarios\Agents\samples\code-interpreter\
+Go to file : \azureai-samples\scenarios\Agents\samples\code-interpreter\python-code-interpreter.py
 
-## Download and install Git on your working machine (Skip if alredy done in Lab prerequisites)
 
-Download from below link and install Git on your working machine. 
-- [Git download win](https://git-scm.com/download/win)
+
+
 

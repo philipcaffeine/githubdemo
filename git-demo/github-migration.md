@@ -40,4 +40,11 @@ https://docs.github.com/en/migrations/importing-source-code/using-the-command-li
 
 ## About GitHub Importer
 
+About GitHub Importer
+If your source code is stored on another Git-based hosting service, you can move the code to GitHub.com using GitHub Importer.
+
+https://docs.github.com/en/migrations/importing-source-code/using-github-importer/about-github-importer
+
+https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer#importing-a-repository-with-github-importer
+
 
