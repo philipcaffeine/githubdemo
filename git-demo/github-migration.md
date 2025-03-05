@@ -35,6 +35,9 @@ Any Git repository to GitHub.com
 
 ## More information:
 
-Importing an external Git repository using the command line
-About GitHub Importer
+## Importing an external Git repository using the command line
+https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/importing-an-external-git-repository-using-the-command-line
+
+## About GitHub Importer
+
 
