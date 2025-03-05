@@ -36,5 +36,11 @@ https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/get-start
 ### Get started with GitHub Copilot for Azure Preview to streamline your development workflow and enhance your productivity on the Azure platform. This guide walks you through the prerequisites and installation of the GitHub Copilot for Azure extension in Visual Studio Code, so you can write your first prompt.
 
 
-# Workspace integration 
+# New GitHub Copilot Edit mode 
+
+## Agent mode in Copilot Edit 
+
+## Image recognition in Copilot Edit
+
+
 
