@@ -43,4 +43,21 @@ https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/get-start
 ## Image recognition in Copilot Edit
 
 
+### ER Diagram
+
+```hcl
+"Generate create table SQL for this diagram" 
+```
+
+
+### Architecture Diagram from Azure 
+
+```hcl
+"Generate Terraform code to create this architecture on Azure"
+```
+
+```hcl
+"Generate Bicep code to create this architecture on Azure"
+```
+
 
