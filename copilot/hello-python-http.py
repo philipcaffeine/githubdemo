@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import requests
 import json
 
