@@ -36,11 +36,16 @@ https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/get-start
 ### Get started with GitHub Copilot for Azure Preview to streamline your development workflow and enhance your productivity on the Azure platform. This guide walks you through the prerequisites and installation of the GitHub Copilot for Azure extension in Visual Studio Code, so you can write your first prompt.
 
 
+
 # New GitHub Copilot Edit mode 
 
 ## Agent mode in Copilot Edit 
 
-## Image recognition in Copilot Edit
+
+
+# Image recognition in Copilot Edit
+
+Sample prompt in Copilot Edit / Agent mode for Vision Copilot 
 
 
 ### ER Diagram
@@ -51,6 +56,7 @@ https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/get-start
 
 
 ### Architecture Diagram from Azure 
+
 
 ```hcl
 "Generate Terraform code to create this architecture on Azure"
